@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-
+set -x
 cd /atomtools/build/buildroot-2016.02
 
 rm -rf /atomtools/build/buildroot-2016.02/package/ffmpeg

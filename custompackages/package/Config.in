@@ -1,3 +1,6 @@
+menu "ATBM custom driver"
+	source "package/atbm_driver/Config.in"
+
 menu "Target packages"
 
 	source "package/busybox/Config.in"

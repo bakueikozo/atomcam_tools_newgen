@@ -1,0 +1,4 @@
+config BR2_PACKAGE_ATBM_DRIVER
+	bool "atbm_driver"
+	help
+	  ATBM Wifi Driver custom build
